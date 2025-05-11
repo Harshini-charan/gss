@@ -1,4 +1,4 @@
-package Harshini-charan;
+package harshinicharan;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
