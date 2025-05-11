@@ -1,4 +1,4 @@
-package Harshinicharan;
+package harshinicharan;
 
 /**
  * Hello world!
